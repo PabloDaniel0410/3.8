@@ -2,17 +2,17 @@ span.cajaazul{
     background-color: blue;
     border: 150px solid blue;
     width: 250px;
-    height: 150px; 
+    height: 100px; 
 }
 span.cajaamarillo{
     background-color: yellow;
     border: 150px solid yellow;
     width: 250px;
-    height: 150px;
+    height: 100px;
 }
 span.cajaroja{
     background-color: red;
     border: 150px solid red;
     width: 250px;
-    height: 150px;
+    height: 100px;
 }
