@@ -1,18 +1,21 @@
-span.cajaazul{
+div.cajaazul{
     background-color: blue;
-    border: 150px solid blue;
-    width: 250px;
-    height: 100px; 
+    width: 33%;
+    height: 400px; 
+    display: inline;
 }
-span.cajaamarillo{
+div.cajaamarillo{
     background-color: yellow;
-    border: 150px solid yellow;
-    width: 250px;
-    height: 100px;
+    width: 33%;
+    height: 400px;
+    display: inline;
 }
-span.cajaroja{
+div.cajaroja{
     background-color: red;
-    border: 150px solid red;
-    width: 250px;
-    height: 100px;
+    width: 33%;
+    height: 400px;
+    display: inline;
+}
+div.verde{
+    background-color: green;
 }
