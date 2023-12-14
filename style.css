@@ -1,21 +1,26 @@
 div.cajaazul{
     background-color: blue;
     width: 33%;
-    height: 400px; 
-    display: inline;
+    height: 350px; 
+    display: inline-block;
 }
 div.cajaamarillo{
     background-color: yellow;
     width: 33%;
-    height: 400px;
-    display: inline;
+    height: 350px;
+    display: inline-block;
 }
 div.cajaroja{
     background-color: red;
     width: 33%;
-    height: 400px;
-    display: inline;
+    height: 350px;
+    display: inline-block;
 }
 div.verde{
     background-color: green;
+    color: green;
+
+}
+footer{
+    background-color: lightblue;
 }
